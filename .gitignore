@@ -5,3 +5,4 @@
 /.vs
 /ADOORM/bin/Debug/netstandard2.0
 /ADOORM/obj
+/ADOORM/bin/Release/netstandard2.0
